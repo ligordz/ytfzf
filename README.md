@@ -1,7 +1,5 @@
 # NOTICE
-UPDATED BY LIGORD
-UPDATED BY LIGORD TWICE
-UPDATED BY LIGORD THIRD TIME
+1
 This project is no longer actively maintained, it should still work for the foreseeable future
 
 ---
