@@ -1,4 +1,9 @@
-123123123                    GNU GENERAL PUBLIC LICENSE
+<<<<<<< HEAD
+               GNU GENERAL PUBLIC LICENSE
+=======
+updated by ligord third time
+                    GNU GENERAL PUBLIC LICENSE
+>>>>>>> 7b86ff8b6a1733a40412e2dbb4fddeb8912cfe30
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
